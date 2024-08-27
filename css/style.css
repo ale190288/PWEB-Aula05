@@ -1,0 +1,35 @@
+/* para selecionar a página inteira, selecionamos o
+seletor * */
+/*adicionando cor no seletor p*/
+body{
+background-image : url("../img/dwd.jpg") ;
+background-size: cover;
+}
+p{
+color:#ff0037
+}
+.centro{
+text-align: center; color: forestgreen;
+}
+#unico{
+    color:rgb(89, 240, 240);
+    text-align: right;
+
+}
+.lab{
+    color:#ff0037;
+    font-size: 55px;
+    font-style:italic;
+    letter-spacing: 04px;
+    text-align: right;
+    font-weight: 900;
+}
+.prof{
+    color:rgb(87, 63, 3);
+    text-decoration:underline;
+    text-align: left;
+    font-family: 'Roboto', Tahoma, Geneva, Verdana, sans-serif;
+
+    font: bold italic 55px 'roboto';
+    font-weight: 900;
+} 
